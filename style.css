@@ -1,14 +1,45 @@
-body{
-      .container__botao {
-            background-color: var(--botao-azul);
-            border-radius: 5px;
-            padding: 1em;
-            color: var(--branco-principal);
-            display: block;
-            text-decoration: none;
-            margin-bottom: 1em;
-        }
-  position: fixed;
-  top: 100%;
- background-color: darkblue;
-  c
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #0d0d0d;
+  color: #f0f0f0;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2em;
+  color: #e0b0ff;
+  margin-bottom: 30px;
+}
+
+h2 {
+  color: #cfa0ff;
+  margin-top: 40px;
+}
+
+h3 {
+  color: #a87cff;
+  margin-top: 30px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 10px auto 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(128, 0, 255, 0.3);
+}
+
+ul {
+  list-style-type: "☾ ";
+  padding-left: 20px;
+  line-height: 1.8;
+}
+
+section {
+  margin-bottom: 60px;
+  border-top: 1px solid #444;
+  padding-top: 20px;
+}
