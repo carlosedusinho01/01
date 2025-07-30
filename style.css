@@ -1,7 +1,7 @@
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #0d0d0d;
-  color: #f0f0f0;
+  background-color: #7e00a5;
+  color: #530cd6;
   padding: 20px;
   line-height: 1.6;
 }
@@ -9,17 +9,17 @@ body {
 h1 {
   text-align: center;
   font-size: 2em;
-  color: #e0b0ff;
+  color: #ffffff;
   margin-bottom: 30px;
 }
 
 h2 {
-  color: #cfa0ff;
+  color: #ffffff;
   margin-top: 40px;
 }
 
 h3 {
-  color: #a87cff;
+  color: #ffffff;
   margin-top: 30px;
 }
 
